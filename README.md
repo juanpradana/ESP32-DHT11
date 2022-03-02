@@ -2,7 +2,7 @@
 This repository for ESP32 to use dht11 sensor
 
 # Requirement
-Yotu need to install "DHT Sensor library from Adafruit.
+Yotu need to install "DHT Sensor library" from Adafruit.
 
 # Wiring
 ESP32 >> DHT11
